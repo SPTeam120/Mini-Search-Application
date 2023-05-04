@@ -1,0 +1,14 @@
+D:\win 10\source\repos\SP Project\SP Project\Debug\SP Project.vcxprojAssemblyReference.cache
+D:\win 10\source\repos\SP Project\SP Project\Debug\SPProject.AddText.resources
+D:\win 10\source\repos\SP Project\SP Project\Debug\SPProject.ModificationText.resources
+D:\win 10\source\repos\SP Project\SP Project\Debug\SPProject.MyForm.resources
+D:\win 10\source\repos\SP Project\SP Project\Debug\SPProject.Search.resources
+D:\win 10\source\repos\SP Project\SP Project\Debug\SPProject.UpdateText.resources
+D:\win 10\source\repos\SP Project\SP Project\Debug\SP Project.vcxproj.GenerateResource.cache
+D:\win 10\VisualStudio\SP Project\SP Project\Debug\SP Project.vcxproj.AssemblyReference.cache
+D:\win 10\VisualStudio\SP Project\SP Project\Debug\SPProject.AddText.resources
+D:\win 10\VisualStudio\SP Project\SP Project\Debug\SPProject.ModificationText.resources
+D:\win 10\VisualStudio\SP Project\SP Project\Debug\SPProject.MyForm.resources
+D:\win 10\VisualStudio\SP Project\SP Project\Debug\SPProject.Search.resources
+D:\win 10\VisualStudio\SP Project\SP Project\Debug\SPProject.UpdateText.resources
+D:\win 10\VisualStudio\SP Project\SP Project\Debug\SP Project.vcxproj.GenerateResource.cache
