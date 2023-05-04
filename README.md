@@ -1,5 +1,10 @@
 # Mini-Search-Application
 
+## Screenshots:
+![MainScreen](https://user-images.githubusercontent.com/92388390/236275096-77cf5a1d-9620-4e87-b762-ebe4f7c6d002.png)
+![SearchScreen](https://user-images.githubusercontent.com/92388390/236275137-a68eadc6-0f6b-49ec-9924-f74639a4c2a4.png)
+![AddTextScreen](https://user-images.githubusercontent.com/92388390/236275177-9246e823-ddd8-4351-aab4-996ba21382b4.png)
+
 ## TA: Mohammed Ramadan
 ## Team: GEN_120
 
